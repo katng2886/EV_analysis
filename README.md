@@ -44,7 +44,7 @@ washington_ev_analysis/
 ![Top 10 Counties](./top_10_counties.png)
 
 ### Top 10 Manufacturers
-![Top 10 Makes](./top_10_makes.png)
+![Top 10 Makes](./top10.png)
 
 ### EV Registrations Over Time
 ![EV by Year](./ev_by_year.png)
