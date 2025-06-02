@@ -41,7 +41,7 @@ washington_ev_analysis/
 
 ## 📈 Sample Visuals
 ### Top 10 Counties
-![Top 10 Counties](./top_10_counties.png)
+![Top 10 Counties](./ev_by_county.png)
 
 ### Top 10 Manufacturers
 ![Top 10 Makes](./top10.png)
